@@ -15,6 +15,7 @@ require (
 	github.com/onsi/ginkgo v1.16.4 // indirect
 	github.com/onsi/gomega v1.10.5 // indirect
 	github.com/pkg/errors v0.9.1
+	github.com/akityo/notify v2.0.0
 	github.com/projectdiscovery/goflags v0.0.7
 	github.com/projectdiscovery/gologger v1.1.4
 	github.com/projectdiscovery/retryablehttp-go v1.0.1
