@@ -25,3 +25,5 @@ require (
 	gopkg.in/yaml.v2 v2.4.0
 	nhooyr.io/websocket v1.8.7 // indirect
 )
+
+replace github.com/projectdiscovery/notify v1.0.0 => github.com/Akityo/notify v1.0.0
