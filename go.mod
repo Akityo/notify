@@ -1,4 +1,4 @@
-module github.com/projectdiscovery/notify
+module github.com/akityo/notify
 
 go 1.15
 
@@ -26,4 +26,4 @@ require (
 	nhooyr.io/websocket v1.8.7 // indirect
 )
 
-replace github.com/projectdiscovery/notify v1.0.0 => github.com/Akityo/notify v1.0.0
+replace github.com/projectdiscovery/notify v1.0.0 => github.com/akityo/notify v1.0.0

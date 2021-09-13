@@ -6,7 +6,7 @@ import (
 	"github.com/containrrr/shoutrrr"
 	"github.com/pkg/errors"
 	"github.com/projectdiscovery/gologger"
-	"github.com/projectdiscovery/notify/pkg/utils"
+	"github.com/akityo/notify/pkg/utils"
 	"go.uber.org/multierr"
 )
 

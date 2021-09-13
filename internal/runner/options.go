@@ -7,7 +7,7 @@ import (
 	"github.com/projectdiscovery/gologger"
 	"github.com/projectdiscovery/gologger/formatter"
 	"github.com/projectdiscovery/gologger/levels"
-	"github.com/projectdiscovery/notify/pkg/types"
+	"github.com/akityo/notify/pkg/types"
 )
 
 // ParseOptions parses the command line flags provided by a user

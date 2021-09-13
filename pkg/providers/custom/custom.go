@@ -7,8 +7,8 @@ import (
 
 	"github.com/pkg/errors"
 	"github.com/projectdiscovery/gologger"
-	"github.com/projectdiscovery/notify/pkg/utils"
-	"github.com/projectdiscovery/notify/pkg/utils/httpreq"
+	"github.com/akityo/notify/pkg/utils"
+	"github.com/akityo/notify/pkg/utils/httpreq"
 	"go.uber.org/multierr"
 )
 

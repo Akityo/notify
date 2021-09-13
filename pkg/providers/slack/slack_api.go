@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/projectdiscovery/notify/pkg/utils/httpreq"
+	"github.com/akityo/notify/pkg/utils/httpreq"
 )
 
 const SlackPostMessageAPI = "https://slack.com/api/chat.postMessage"

@@ -8,8 +8,8 @@ import (
 
 	"github.com/projectdiscovery/goflags"
 	"github.com/projectdiscovery/gologger"
-	"github.com/projectdiscovery/notify/internal/runner"
-	"github.com/projectdiscovery/notify/pkg/types"
+	"github.com/akityo/notify/internal/runner"
+	"github.com/akityo/notify/pkg/types"
 )
 
 var (

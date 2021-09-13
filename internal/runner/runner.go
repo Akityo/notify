@@ -13,8 +13,8 @@ import (
 	"github.com/containrrr/shoutrrr"
 	"github.com/pkg/errors"
 	"github.com/projectdiscovery/gologger"
-	"github.com/projectdiscovery/notify/pkg/providers"
-	"github.com/projectdiscovery/notify/pkg/types"
+	"github.com/akityo/notify/pkg/providers"
+	"github.com/akityo/notify/pkg/types"
 	"gopkg.in/yaml.v2"
 )
 
